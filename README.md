@@ -12,4 +12,4 @@ A secure tool for managing credentials, built for the **Btekians** team to manag
 ## 🚀 Quick Start
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/yourusername/repo-name.git](https://github.com/yourusername/repo-name.git)
+   git clone https://github.com/tryst-kumar/CLI-PASSWORD-manager.git
